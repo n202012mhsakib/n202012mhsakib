@@ -14,6 +14,11 @@ Skills:  REACT/ BOOTSTRAP / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n202012mhsakib&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=n202012mhsakib)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n202012mhsakib)  
+
+![Profile views](https://gpvc.arturio.dev/n202012mhsakib)  
 
 
 
