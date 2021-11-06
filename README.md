@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Mainul Hasan Sakib.
-#### I am a junior front-end web developer.
+#### Junior front-end web developer.
 
 Skills:  REACT/ BOOTSTRAP / JS / HTML / CSS
 
