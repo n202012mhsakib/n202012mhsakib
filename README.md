@@ -1,12 +1,17 @@
-### Hi there 👋, I am Mainul Hasan Sakib.
-#### Junior front-end web developer.
+![Front End Web Developer](https://github.com/n202012mhsakib/n202012mhsakib/blob/gh-pages/New%20Project.jpg)
 
-Skills:  REACT/ BOOTSTRAP / JS / HTML / CSS
-
-- 🌱 I’m currently learning MERN STACK 
+### Hi there 👋, I am Mainul Hasan Sakib
+#### Front End Web Developer
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/n202012mhsakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mainul-hasan-sakib-327b9221a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/AncientMariner21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCE0e7kBvqsWKqNIkjGMopqA/channels)  
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  REACT JS / MATERIAL UI / JS / BOOTSTRAP / HTML / CSS
+
+- 🌱 I’m currently learning MERN Stack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/n202012mhsakib)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n202012mhsakib)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -16,7 +21,7 @@ Skills:  REACT/ BOOTSTRAP / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=n202012mhsakib)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n202012mhsakib)  
+![GitHub metrics](https://metrics.lecoq.io/n202012mhsakib)  
 
 ![Profile views](https://gpvc.arturio.dev/n202012mhsakib)  
 
