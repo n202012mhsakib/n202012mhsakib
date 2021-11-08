@@ -22,7 +22,7 @@ Skills:  REACT JS / MATERIAL UI / JS / BOOTSTRAP / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=n202012mhsakib)  
 
-![GitHub metrics](https://metrics.lecoq.io/n202012mhsakib)  
+
 
 ![Profile views](https://gpvc.arturio.dev/n202012mhsakib)  
 
